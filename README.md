@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I find joy in helping local companies to gain online presence and increase their sales revenues by using S.E.O. (Search Engine Optimization) to create websites.
+
 🧑‍💻 [Laptop Doctor Singapore](https://laptopdoctor.com.sg "A collaboration with Kato-Tech Pte. Ltd.") 
 
 - 🔭 I’m currently working on my personal Cyber Security portfolio.
