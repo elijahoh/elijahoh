@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 I find joy in helping local companies to gain online presence and increase their sales revenues by using S.E.O. (Search Engine Optimization) to create websites.
 
 🧑‍💻 [Laptop Doctor](https://laptopdoctor.com.sg "A collaboration with Kato-Tech Pte. Ltd.") 
+
 🔧✈️ [Index Aerospace](https://indexaerospace.sg/ "A collaboration with Index Aerospace Pte. Ltd.")
+
 🧾🖨️ [Barcode Supplier](https://hetechsolutions.com/)
 
 
