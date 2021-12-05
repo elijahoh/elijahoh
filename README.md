@@ -22,7 +22,7 @@ I find joy in helping local companies to gain online presence and increase their
 
 🧾🖨️ [Barcode Supplier](https://hetechsolutions.com/)
 
-------
+---
 - 🔭 I’m currently working on my personal Cyber Security portfolio.
 - 🌱 I’m currently still learning about [Cyber Security](https://www.centreforcybersecurity.com/).
 - ⚡ Fun fact: After experiencing Cyber Security, I started to enjoy 'breaking' things. And then 'mending' them.
