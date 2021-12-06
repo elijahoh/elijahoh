@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I find joy in helping local companies to gain online presence and increase their sales revenues by using S.E.O. (Search Engine Optimization) to create websites.
+I find joy in helping local companies to gain an online presence and increase their sales revenues by creating websites optimized for S.E.O. (Search Engine Optimization).
 
 🧑‍💻 [Laptop Doctor](https://laptopdoctor.com.sg "A collaboration with Kato-Tech Pte. Ltd.") 
 
