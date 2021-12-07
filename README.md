@@ -20,7 +20,7 @@ I find joy in helping local companies to gain an online presence and increase th
 
 🔧✈️ [Index Aerospace](https://indexaerospace.sg/ "A collaboration with Index Aerospace Pte. Ltd.")
 
-🧾🖨️ [Barcode Supplier](https://hetechsolutions.com/ "SEO Consultant for Hetech Solutions Pte. Ltd.")
+🧾🖨️ [Barcode Solutions](https://hetechsolutions.com/ "SEO Consultant for Hetech Solutions Pte. Ltd.")
 
 ---
 - 🔭 I’m currently working on my personal Cyber Security portfolio.
