@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 I find joy in helping local companies to gain an online presence and increase their sales revenues by creating websites optimized for S.E.O. (Search Engine Optimization).
 
-👨‍⚕️💻 [Laptop Doctor](https://laptopdoctor.com.sg "A collaboration with Kato-Tech Pte. Ltd.") 
+👨‍⚕️💻 [Laptop Doctor](https://laptopdoctor.com.sg "A collaboration with Kato-Tech Pte. Ltd."){:target="\_blank"} 
 
-🔧✈️ [Index Aerospace](https://indexaerospace.sg/ "A collaboration with Index Aerospace Pte. Ltd.")
+🔧✈️ [Index Aerospace](https://indexaerospace.sg/ "A collaboration with Index Aerospace Pte. Ltd."){:target="\_blank"}
 
-🧾🖨️ [Barcode Solutions](https://hetechsolutions.com/ "SEO Consultant for Hetech Solutions Pte. Ltd.")
+🧾🖨️ [Barcode Solutions](https://hetechsolutions.com/ "SEO Consultant for Hetech Solutions Pte. Ltd."){:target="\_blank"}
 
 ---
 - 🔭 I’m currently working on my personal Cyber Security portfolio.
-- 🌱 I’m currently still learning about [Cyber Security](https://www.centreforcybersecurity.com/ "Cyber Security course provider & career consultant").
-- ⚡ Fun fact: After experiencing [Cyber Security](https://www.thinkcyber.co.il/ "Real-life cyber attacks simulator"), I started to enjoy 'breaking' things. And then 'mending' them.
+- 🌱 I’m currently still learning about [Cyber Security](https://www.centreforcybersecurity.com/ "Cyber Security course provider & career consultant"){:target="\_blank"}.
+- ⚡ Fun fact: After experiencing [Cyber Security](https://www.thinkcyber.co.il/ "Real-life cyber attacks simulator"){:target="\_blank"}, I started to enjoy 'breaking' things. And then 'mending' them.
