@@ -25,4 +25,5 @@ I find joy in helping local companies to gain an online presence and increase th
 ---
 - 🔭 I’m currently working on my personal Cyber Security portfolio.
 - 🌱 I’m currently still learning about [Cyber Security](https://www.centreforcybersecurity.com/ "Cyber Security course provider & career consultant").
+- 🧗‍♂️ I'm currently climbing the ranks to the top at [overthewire](https://www.wechall.net//profile/elijahoh).
 - ⚡ Fun fact: After experiencing [Cyber Security](https://www.thinkcyber.co.il/ "Real-life cyber attacks simulator"), I started to enjoy 'breaking' things. And then 'mending' them.
