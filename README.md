@@ -24,7 +24,7 @@ I find joy in helping local companies to gain an online presence and increase th
 
 ---
 
-📜💻 [Remote Control Script](https://github.com/elijahoh/Remote_Control/blob/main/remote_control.sh "Network Research Project") Script featured on [Thinkcyber](https://www.thinkcyber.co.il/training)
+📜💻 [Remote Control Script](https://github.com/elijahoh/Remote_Control/blob/main/remote_control.sh "Network Research Project"): Script featured on [Thinkcyber](https://www.thinkcyber.co.il/training).
 
 ---
 - 🔭 I’m currently working on my personal Cyber Security portfolio.
