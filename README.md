@@ -19,9 +19,10 @@ I am a S.E.O. consultant focused on the cyber security field. Trained in network
 ---
 
 📜💻 [Remote Control Script](https://github.com/elijahoh/Remote_Control/blob/main/remote_control.sh "Network Research Project"): Script featured on [Thinkcyber](https://www.thinkcyber.co.il/training).
-I find joy in helping local companies to gain an online presence and increase their sales revenue by creating websites optimized for S.E.O. (Search Engine Optimization).
 
 ---
+
+I find joy in helping local companies to gain an online presence and increase their sales revenue by creating websites optimized for S.E.O. (Search Engine Optimization).
 
 💻👨‍⚕ [Laptop Doctor](https://laptopdoctor.com.sg "A collaboration with Kato-Tech Pte. Ltd.") 
 
