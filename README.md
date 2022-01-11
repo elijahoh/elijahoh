@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **elijahoh/elijahoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,17 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a S.E.O. consultant focused on the cyber security field. Trained in network research and has solved numerous real-world cyberattack scenarios. Equipped with the skills of a S.O.C analyst such as Elasticsearch, Logstash & Kibana, pfSense, OSSIM and have a keen interest in penetration testing and offensive security.
+
+---
+
+📜💻 [Remote Control Script](https://github.com/elijahoh/Remote_Control/blob/main/remote_control.sh "Network Research Project"): Script featured on [Thinkcyber](https://www.thinkcyber.co.il/training).
 I find joy in helping local companies to gain an online presence and increase their sales revenue by creating websites optimized for S.E.O. (Search Engine Optimization).
+
+---
 
 💻👨‍⚕ [Laptop Doctor](https://laptopdoctor.com.sg "A collaboration with Kato-Tech Pte. Ltd.") 
 
 🔧✈️ [Index Aerospace](https://indexaerospace.sg/ "A collaboration with Index Aerospace Pte. Ltd.")
 
 🧾🖨️ [Barcode Solutions](https://hetechsolutions.com/ "SEO Consultant for Hetech Solutions Pte. Ltd.")
-
----
-
-📜💻 [Remote Control Script](https://github.com/elijahoh/Remote_Control/blob/main/remote_control.sh "Network Research Project"): Script featured on [Thinkcyber](https://www.thinkcyber.co.il/training).
 
 ---
 - 🔭 I’m currently working on my personal Cyber Security portfolio.
