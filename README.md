@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am an S.E.O. consultant focused on the cyber security field. Trained in network research and has solved numerous real-world cyberattack scenarios. Equipped with the skills of a S.O.C analyst such as Elasticsearch, Logstash & Kibana, pfSense, OSSIM and have a keen interest in penetration testing and offensive security.
+I am an S.E.O. consultant focused on the cyber security field. Trained in network research and has solved numerous real-world cyberattack scenarios on [Thinkcyber](https://www.thinkcyber.co.il/)'s Cyberium simulator. Equipped with the skills of a S.O.C analyst such as Elasticsearch, Logstash & Kibana, pfSense, OSSIM and have a keen interest in penetration testing and offensive security.
 
 📔⚠️ [Vulnerability Assessment Report](https://github.com/elijahoh/Vulnerability_Assessment/blob/main/Vulnerability%20Assessment%20Project.pdf)<br/>
 📜💻 [Remote Control Script](https://github.com/elijahoh/Remote_Control/blob/main/remote_control.sh "Network Research Project"): Script featured on [Thinkcyber](https://www.thinkcyber.co.il/training).
