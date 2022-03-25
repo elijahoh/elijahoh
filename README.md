@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 I am an S.E.O. consultant focused on the cyber security field. Trained in network research and has solved numerous real-world cyberattack simulations on [Thinkcyber](https://www.thinkcyber.co.il/)'s Cyberium Arena. Equipped with the skills of a S.O.C analyst such as Elasticsearch, Logstash & Kibana, pfSense, OSSIM and have a keen interest in penetration testing and offensive security.
 
+🏃‍♂️🚶‍♂️ [My Cybersecurity Journey](https://elijahoh.gitbook.io/pentest/)<br/>
 📔⚠️ [Vulnerability Assessment Report](https://github.com/elijahoh/Vulnerability_Assessment/blob/main/Vulnerability%20Assessment%20Project.pdf)<br/>
 📜💻 [Remote Control Script](https://github.com/elijahoh/Remote_Control/blob/main/remote_control.sh "Network Research Project"): Script featured on [Thinkcyber](https://www.thinkcyber.co.il/training).
 
@@ -31,5 +32,5 @@ I find joy in helping local companies to gain an online presence and increase th
 - 🔭 I’m currently working on my personal Cyber Security portfolio.
 - 🌱 I’m currently still learning about [Cyber Security](https://www.centreforcybersecurity.com/ "Cyber Security course provider & career consultant").
 - 🧗‍♂️ I'm currently climbing the ranks to the top at [overthewire](https://www.wechall.net//profile/elijahoh).
-- 🧰 I've just started hackthebox: [Profile](https://app.hackthebox.com/profile/877556) | [Documentation](https://elijahoh.gitbook.io/hack-the-box).
+- 🧰 I've just started hackthebox: [Profile](https://app.hackthebox.com/profile/877556) | [Documentation](https://elijahoh.gitbook.io/pentest/hack-the-box).
 - ⚡ Fun fact: After experiencing [Cyber Security](https://www.thinkcyber.co.il/ "Real-life cyber attacks simulator"), I started to enjoy 'breaking' things. And then 'mending' them.
